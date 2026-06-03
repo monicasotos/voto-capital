@@ -1,0 +1,86 @@
+[
+  {
+    "country": "COLOMBIA",
+    "first_round": "2022-05-29",
+    "second_round": "2022-06-19",
+    "winner": "Gustavo Petro",
+    "wing": "left",
+    "notes": ""
+  },
+  {
+    "country": "COLOMBIA",
+    "first_round": "2026-05-31",
+    "second_round": "",
+    "winner": "",
+    "wing": "",
+    "notes": "First round leading right wing"
+  },
+  {
+    "country": "CHILE",
+    "first_round": "2021-11-21",
+    "second_round": "2021-12-19",
+    "winner": "Gabriel Boric",
+    "wing": "left",
+    "notes": ""
+  },
+  {
+    "country": "CHILE",
+    "first_round": "2025-11-16",
+    "second_round": "2025-12-07",
+    "winner": "",
+    "wing": "right",
+    "notes": ""
+  },
+  {
+    "country": "BRAZIL",
+    "first_round": "2022-10-02",
+    "second_round": "2022-10-30",
+    "winner": "Lula Da Silva",
+    "wing": "left",
+    "notes": "wond against Bolsonaro (right)"
+  },
+  {
+    "country": "MEXICO",
+    "first_round": "2024-06-02",
+    "second_round": "",
+    "winner": "Sheinbaum",
+    "wing": "left",
+    "notes": ""
+  },
+  {
+    "country": "ARGENTINA",
+    "election_type": "presidential",
+    "first_round": "2019-10-27",
+    "second_round": "",
+    "winner": "Alberto Fernandez",
+    "wing": "center-left",
+    "notes": "Peronist coalition. Won in the first round with about 48% of the vote, defeating incumbent Mauricio Macri."
+  },
+  {
+    "country": "ARGENTINA",
+    "election_type": "legislative_midterm",
+    "first_round": "2021-11-14",
+    "second_round": "",
+    "winner": "Opposition coalition (Juntos por el Cambio)",
+    "wing": "center-right",
+    "notes": "Government coalition lost significant support and its Senate majority."
+  },
+  {
+    "country": "ARGENTINA",
+    "election_type": "presidential",
+    "first_round": "2023-10-22",
+    "second_round": "2023-11-19",
+    "winner": "Javier Milei",
+    "wing": "right-libertarian",
+    "notes": "Defeated Sergio Massa in the runoff with about 56% of the vote."
+  },
+  {
+    "country": "ARGENTINA",
+    "election_type": "legislative_midterm",
+    "first_round": "2025-10-26",
+    "second_round": "",
+    "winner": "La Libertad Avanza",
+    "wing": "right-libertarian",
+    "notes": "Midterm election broadly viewed as an endorsement of Milei's economic reforms."
+  }
+]

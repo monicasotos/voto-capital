@@ -1,0 +1,30 @@
+[project]
+name = "voto-capital"
+version = "0.0.1"
+description = "Dashboard for examining market reactions to presidential election outcomes across Latin America and the USA"
+requires-python = "==3.13.*"
+dependencies = [
+    "pandas>=2.2",
+    "streamlit>=1.35",
+    "plotly>=5.22",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest == 9.0.3",
+    "flake8 == 7.3.0",
+    "pytest-asyncio == 1.4.0",
+    "pandas-stubs"
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+

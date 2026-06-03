@@ -1,0 +1,21 @@
+{
+  "USA": [
+    "etf_vti.csv",
+    "etf_qqq.csv"
+  ],
+  "COLOMBIA": [
+    "etf_colo.csv"
+  ],
+  "BRAZIL": [
+    "etf_ewz.csv"
+  ],
+  "MEXICO": [
+    "etf_eww.csv"
+  ],
+  "CHILE": [
+    "etf_ech.csv"
+  ],
+  "ARGENTINA": [
+    "etf_argt.csv"
+  ]
+}
