@@ -46,7 +46,7 @@ def test_build_fx_changes_returns_dataframe():
 
 def test_build_fx_changes_columns():
     df = build_fx_changes(RAW_DIR)
-    assert set(df.columns) == {"CHILE", "BRAZIL", "COLOMBIA", "MEXICO"}
+    assert set(df.columns) == {"CHILE", "BRAZIL", "COLOMBIA", "MEXICO", "ARGENTINA"}
 
 
 def test_build_fx_changes_date_index():
